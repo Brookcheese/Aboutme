@@ -31,9 +31,9 @@ header{
     height: 350px;
     width:790px;
     margin:0 auto;
-    /* background:url(../image/ourstoryWTM.jpeg) center no-repeat; */
+    /* background:url(..proyecto/image/ourstoryWTM.jpeg) center no-repeat; */
     border-radius: 15px;
-      background-image: url(../image/ourstoryWTM.jpeg);
+      background-image: url(..proyecto/image/ourstoryWTM.jpeg);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat; 
